@@ -107,8 +107,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Contributors and maintainers
 
 ## Contact
-Your Name - [@yourgithub](https://github.com/yourusername)
-Project Link: [https://github.com/yourusername/speech-emotion-recognition](https://github.com/yourusername/speech-emotion-recognition)
+Your Name - [@rozhin77](https://github.com/rozhin77)
+Project Link: [https://github.com/rozhin77/emotion-recognition](https://github.com/rozhin77/emotion-recognition)
 
 ---
 ⭐ Don't forget to star this repo if you found it helpful!
