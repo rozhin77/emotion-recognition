@@ -1,0 +1,9 @@
+numpy
+librosa
+soundfile
+scikit-learn
+tensorflow
+sounddevice
+matplotlib
+seaborn
+tkinter
